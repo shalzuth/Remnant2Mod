@@ -13,6 +13,7 @@
 
   <ItemGroup>
     <PackageReference Include="ClickableTransparentOverlay" Version="8.1.0" />
+    <PackageReference Include="UnrealSharp" Version="1.0.0.1" />
   </ItemGroup>
 
   <ItemGroup>
